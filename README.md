@@ -1,3 +1,11 @@
-# Algoritmos_Ordenamiento.
-Se agregaran algoritmos de ordenamiento aprendidos en clase.
+# Título del Proyecto
+
+_Se agregaran algoritmos de ordenamiento aprendidos en clase._
+
+## Algoritmo de ordenamiento 🚀
+
 _En la clase 20 como tarea desafio se subio el algoritmo de ordenamineto lineal_
+
+
+
+
