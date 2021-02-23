@@ -1,0 +1,5 @@
+arreglo original
+|4||3||2||1||5|en ese arreglo existen : 5 Elementos
+La suma de los valores del arreglo es: 15
+arreglo ordenado
+|1||2||3||4||5|
