@@ -1,0 +1,5 @@
+	 Aplicacion del algoritmo MERGESORT
+Arreglo original con valores aleatorios
+|8||31||23||2||9||48||40|
+Arreglo ordenado con MERGESORT con valores aleatorios
+|2||8||9||23||31||40||48|
