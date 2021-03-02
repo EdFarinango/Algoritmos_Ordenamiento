@@ -1,3 +1,2 @@
 # Algoritmos_Ordenamiento
-Se agregaran algoritmos de ordenamiento aprendidos en clase.
-En la clase 20 como tarea desafio se subio el algoritmo de ordenamineto lineal.
+Se realizo el algoritmo de ordenamiento QUICKSORT son la generación de números de manera aleatoria, se creó un librería llamada Quiksort.h en la que se guardó todo el procedimiento de dicho algoritmo.
