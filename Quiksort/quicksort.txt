@@ -1,0 +1,6 @@
+	 TALLER CLASE 28
+Algoritmo de ordenamiento QUICKSORT
+Arreglo Original
+|41||35||40||22||14||24||42||48||36|
+ Arreglo ordenado con quicksort
+|9||14||22||24||35||36||40||41||42|
