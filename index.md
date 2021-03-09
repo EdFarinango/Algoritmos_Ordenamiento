@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Escuela Politécnica Nacional 
+
 
 You can use the [editor on GitHub](https://github.com/EdFarinango/Algoritmos_Ordenamiento/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
