@@ -1,3 +1,2 @@
 # Algoritmos_Ordenamiento
-Se agregaran algoritmos de ordenamiento aprendidos en clase.
-En la clase 20 como tarea desafio se subio el algoritmo de ordenamineto lineal.
+Se realiza el algoritmo de oredenamineto Heapsort en clase e implementado para el taller.
